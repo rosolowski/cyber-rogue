@@ -3,7 +3,7 @@
 Yet another roguelike project made for fun.
 Currently there's basic engine and gameplay loop.
 
-Play latest build here: https://rr-adam.github.io/cyber-rogue/play
+Play latest build here: https://rosolowski.github.io/cyber-rogue/play
 
 ## How it works
 
